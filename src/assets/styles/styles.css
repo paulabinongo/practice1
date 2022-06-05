@@ -1,0 +1,29 @@
+                .page-body {
+                    background-color: #a2a8d3;
+                }
+                
+                .navbar-container {
+                    background-color: #113f67;
+                    color: #e7eaf6;
+                    padding: 1.5rem
+                }
+                
+                .navbar-button {
+                    background-color: #e7eaf6;
+                    color: #38598b
+                }
+                
+                .navbar-light .navbar-toggler {
+                    color: none;
+                    border: none;
+                }
+                
+                .navbar-toggler:focus {
+                    text-decoration: none;
+                    outline: 0;
+                    box-shadow: none !important
+                }
+                
+                .navbar-light .navbar-toggler-icon {
+                    background-image: url('https://www.pinclipart.com/picdir/big/532-5328945_menu-bar-icon-white-clipart-png-download-menu.png')!important;
+                }
